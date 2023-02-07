@@ -1,4 +1,4 @@
-package com.icetop.javaspringboot.entities.PK;
+package com.icetop.javaspringboot.entities.pk;
 
 import java.io.Serializable;
 import java.util.Objects;
